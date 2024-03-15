@@ -17,7 +17,7 @@ def answer_question(context, question):
     result = nlp(question=question, context=context)
     return result['answer']
 
-# Define the Gradio interface with the updated API
+# Define the Gradio interface 
 iface = gr.Interface(fn=answer_question,
                      inputs=[gr.Textbox(label="Context", placeholder="Enter the text here...", lines=7), 
                              gr.Textbox(label="Question", placeholder="Enter your question here...")],
