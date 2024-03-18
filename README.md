@@ -2,6 +2,8 @@
 
 <img width="1466" alt="Screenshot 2024-03-18 at 6 01 54 PM" src="https://github.com/Abhi0323/Question-and-Answer-Assistant-Using-NLP/assets/112967999/4c8b088c-ca24-4630-869f-83a9ac66ca4d">
 
+Experience the Question and Answer Assistant for yourself and see how it works by visiting here: https://huggingface.co/spaces/Abhishek0323/Question-and-Answer-Assistant
+
 **Question and Answer Assistant: An Overview**
 
 The Question and Answer Assistant is a bespoke software application designed to navigate through the complexities of natural language to provide concise answers from provided texts. By combining advanced natural language processing (NLP) technology with a user-friendly interface, this tool demystifies the process of extracting information, making it accessible to users with varying levels of technical expertise.
